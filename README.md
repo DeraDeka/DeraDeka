@@ -1,1 +1,3 @@
-I'm just a random college student trying to survive in college.
+An IT Graduate and a former Front-End Web Developer
+
+Now exploring and studying different tech stacks before looking for another work
